@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/psf/clabot/commit/6b1b3a33a3886b40a54f2c75cd134326fe05bfa3",
       "git:hexsha": "6b1b3a33a3886b40a54f2c75cd134326fe05bfa3",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
