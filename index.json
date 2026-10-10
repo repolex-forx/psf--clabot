@@ -1,0 +1,11 @@
+{
+  "org": "psf",
+  "repo": "clabot",
+  "versions": [
+    {
+      "commit": "6b1b3a33a3886b40a54f2c75cd134326fe05bfa3",
+      "tag": "",
+      "parsed_at": "2026-10-10T07:05:03.671875+00:00"
+    }
+  ]
+}
